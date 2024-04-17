@@ -2,7 +2,7 @@
 # Outputs
 ########################################################################################################################
 
-#output "myoutput" {
-#  description = "Description of my output"
-#  value       = "value"
-#}
+output "vpc_id" {
+  description = "ID of the created VPC"
+  value       = ibm_is_vpc.vpc.id
+}
