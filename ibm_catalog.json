@@ -73,7 +73,7 @@
               {
                 "diagram": {
                   "caption": "Architecture diagram",
-                  "url": "https://raw.githubusercontent.com/ccmitchellusa/my-custom-da1/dev/my-da_0.0.1/./xdocs/archtiecture.svg",
+                  "url": "https://raw.githubusercontent.com/ccmitchellusa/my-custom-da1/dev/my-da_0.0.1/./xdocs/architecture.svg",
                   "metadata": []
                 },
                 "description": "A simple deployable architecture."
