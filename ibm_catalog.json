@@ -14,7 +14,7 @@
       ],
       "short_description": "A simple deployable architecture",
       "long_description": "A simple deployable architecture to use as a starting point and test things around.",
-      "offering_docs_url": "https://raw.githubusercontent.com/ccmitchellusa/my-custom-da1/main/README.md",
+      "offering_docs_url": "https://raw.githubusercontent.com/ccmitchellusa/my-custom-da1/dev/my-da_0.0.1/README.md",
       "support_details": "This is a demonstration and no official support is given.",
       "flavors": [
         {
@@ -24,7 +24,7 @@
           "licenses": [
             {
               "name": "Apache License 2.0",
-              "url": "https://raw.githubusercontent.com/ccmitchellusa/my-custom-da1/main/LICENSE"
+              "url": "https://raw.githubusercontent.com/ccmitchellusa/my-custom-da1/dev/my-da_0.0.1/LICENSE"
             }
           ],
           "configuration": [
@@ -66,14 +66,14 @@
               ]
             }
           ],
-          "release_notes_url": "https://raw.githubusercontent.com/ccmitchellusa/my-custom-da1/main/CHANGELOG.md",
+          "release_notes_url": "https://raw.githubusercontent.com/ccmitchellusa/my-custom-da1/dev/my-da_0.0.1/CHANGELOG.md",
           "architecture": {
             "descriptions": "These are architecture diagrams showing the cloud resources that will be deployed.",
             "diagrams": [
               {
                 "diagram": {
                   "caption": "Architecture diagram",
-                  "url": "https://raw.githubusercontent.com/ccmitchellusa/my-custom-da1/main/xdocs/architecture.svg",
+                  "url": "https://raw.githubusercontent.com/ccmitchellusa/my-custom-da1/dev/my-da_0.0.1/./xdocs/archtiecture.svg",
                   "metadata": []
                 },
                 "description": "A simple deployable architecture."
